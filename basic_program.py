@@ -1,3 +1,6 @@
+#Hello
+print("Hi I am Sneha Sebastian")
+print("Welcome to my repositories")
 # Prime number
 num = int(input("Enter number: "))
 for i in range(2, num):
